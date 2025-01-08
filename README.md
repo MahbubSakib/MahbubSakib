@@ -6,7 +6,7 @@
  
 
 <p align="center">
-  <img src="https://i.ibb.co/2tpjq5Z/linkdin-banner-photo.jpg" alt="Mehefuj Ali Banner" width="800"/>
+  <img src="github-header-image.png" alt="Mahbub Sakib" width="800"/>
 </p>
 
 <p align="center">
