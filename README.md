@@ -6,7 +6,7 @@
  
 
 <p align="center">
-  <img src="github-header-image.png" alt="Mahbub Sakib" width="800"/>
+  <img src="github-header-image.png" alt="Mahbub Sakib" width="600"/>
 </p>
 
 <p align="center">
