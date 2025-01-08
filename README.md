@@ -98,30 +98,3 @@ I am a passionate Web Developer with a goal to build impactful, user-friendly we
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehefujali&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehefujali&layout=compact&theme=radical" alt="Top Languages" width="400"/>
-</p>
-
----
-
-## 📬 Let's Connect!
-
-I’m always open to collaborating on exciting projects or having a conversation about tech. Feel free to reach out via any of the platforms below:
-
-<p align="center">
-  <a href="https://www.facebook.com/share/xK94t1TizJUFJmX7/?mibextid=qi2Omg"><img src="https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook" alt="Facebook"></a>
-  <a href="https://www.linkedin.com/in/mehefuj-ali-232741306"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://youtube.com/@mehefuj-ali?si=8g1rTFGoZ4ANMaFU"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" alt="YouTube"></a>
-  <a href="mailto:mehefujalim@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" alt="Email"></a>
-</p>
-
----
-
-⭐ **If you find my work helpful or interesting, please consider giving my projects a star!**
----
