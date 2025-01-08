@@ -12,6 +12,7 @@
 <p align="center">
   <a href="https://portfolio-eb64c.web.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=internet-explorer" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/mahbub-sakib325265/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:sakibmahbub92@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" alt="Email"></a> 
 </p>
 
 ---
