@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-  <img alt="Coding" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" style="width: 100%; height: 300px; object-fit: cover;">
-</div>
+<img alt="Coding" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" style="width: 400px; height: 300px; object-fit: cover; display: block; margin: 0 auto;">
 
 <h1 align="center">Hi 👋, I'm Md. Mahbub Sakib</h1>
 <h3 align="center">A Passionate Web Developer</h3>
