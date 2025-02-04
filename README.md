@@ -27,6 +27,11 @@
 I am a passionate Web Developer with a goal to build impactful, user-friendly web applications. Currently, I’m exploring **React**, **Node.js**, and **MongoDB** to expand my skills. I am always excited to learn new tools and technologies and strive to create beautiful, responsive, and functional websites.
 
 ---
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=MahbubSakib&theme=dark&border_radius=4.7&mode=weekly" alt="GitHub Streak" />
+</a>
+
+---
 
 ### 🌱 Currently Learning
 - Full-stack development with **React**, **Node.js**, and **MongoDB**
