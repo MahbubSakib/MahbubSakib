@@ -28,7 +28,7 @@ I am a passionate Web Developer with a goal to build impactful, user-friendly we
 
 ---
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=mahbubsakib&theme=dark&mode=weekly" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=MahbubSakib&theme=dark&mode=weekly" alt="GitHub Streak" />
 </a>
 
 ---
